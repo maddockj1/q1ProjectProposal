@@ -11,7 +11,7 @@
  
  
  
- *Project Propasal 2*
+ *Project Proposal 2*
  
  The second idea that I have is to create a game of Jeopardy.
  
