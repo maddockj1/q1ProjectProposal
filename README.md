@@ -1,5 +1,8 @@
 # q1ProjectProposal
+
  *Project Proposal 1*
+ 
+ 
  For my q1 project I would like to use the National Park API to provide information on the campsites and average weather to help people plan for trips.  May also integrate a weather API to add in current weather conditions as well.
  
  The user group would be national park fans.
